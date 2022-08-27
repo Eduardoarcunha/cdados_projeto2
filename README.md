@@ -1,4 +1,6 @@
-# cdados_projeto2
-Projeto 2 de Ciencia dos Dados - 2° Semestre Engenharia Insper
-Alunos: Paulo Falcão, Pedro Dannecker, Eduardo Araújo
-Sobre os commits: Todos os commits foram realizados em conjunto por meio de reuniões pelo teams, contudo o integrante Pedro teve dificuldades quanto aos commits devido a problemas de seu Jupyther com algumas bibliotecas utilizadas, mesmo assim ele participou de todos os commits através das reuniões do grupo.
+# Projeto 2 de Ciencia dos Dados - 2° Semestre Engenharia Insper
+Feito por: Eduardo Araújo, Paulo Falcão e Pedro Dannecker
+
+### Sobre o projeto:
+O objetivo do projeto foi a partir de uma série de informações dos canais de streaming da plataforma Twitch, estimar o número de seguidores que o canal ganhou, para entender quais fatorem são mais impactantes para que um canal cresça na Twitch. 
+*(Todo o projeto está documento no arquivo "Projeto 2 - Ciência dos Dados.ipynb")*
